@@ -1,6 +1,6 @@
 # 🌟 Hi there, I'm [Your Name]! 👋
 
-![布鲁伊](1.jpg)
+![布鲁伊](1.png)
 
 ## 📚 About Me
 
