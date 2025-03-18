@@ -32,15 +32,31 @@ Python  |  JavaScript  |  HTML/CSS  |  React  |  TensorFlow  |  Docker
 
 ---
 
-## 🌍 3D Interactive Section
+<!-- GitHub Activity Graph - GitHub 活动图 -->
+<table>
+  <tr>
+    <td>
+      <picture>
+        <!-- Dark Mode 图表 -->
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=crashbussy&theme=tokyo-night" />
+        <!-- Light Mode 图表 -->
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=crashbussy&theme=xcode" />
+        <!-- 默认显示（Dark Mode） -->
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=crashbussy&theme=tokyo-night" alt="GitHub Activity Graph" />
+      </picture>
+    </td>
+  </tr>
+</table>
 
-Here’s a fun 3D interactive globe to showcase my global reach and contributions! 🌐
-
-<div align="center">
-  <a href="https://sourcerer.io/crashbussy" target="_blank">
-    <img src="https://api.sourcerer.io/widgets/profile/3d?username=crashbussy" alt="3D Profile Globe" width="400" />
-  </a>
-</div>
+<!-- Profile 3D Contribution Graph - 3D 贡献图 -->
+<picture>
+  <!-- Dark Mode 3D 图 -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.sourcerer.io/widgets/profile/3d?username=crashbussy&theme=dark" />
+  <!-- Light Mode 3D 图 -->
+  <source media="(prefers-color-scheme: light)" srcset="https://api.sourcerer.io/widgets/profile/3d?username=crashbussy&theme=light" />
+  <!-- 默认显示（Dark Mode） -->
+  <img src="https://api.sourcerer.io/widgets/profile/3d?username=crashbussy&theme=dark" alt="3D Contribution Graph" />
+</picture>
 
 ---
 
