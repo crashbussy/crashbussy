@@ -50,12 +50,9 @@ Python  |  JavaScript  |  HTML/CSS  |  React  |  TensorFlow  |  Docker
 
 <!-- Profile 3D Contribution Graph - 3D 贡献图 -->
 <picture>
-  <!-- Dark Mode 3D 图 -->
-  <source media="(prefers-color-scheme: dark)" srcset="https://api.sourcerer.io/widgets/profile/3d?username=crashbussy&theme=dark" />
-  <!-- Light Mode 3D 图 -->
-  <source media="(prefers-color-scheme: light)" srcset="https://api.sourcerer.io/widgets/profile/3d?username=crashbussy&theme=light" />
-  <!-- 默认显示（Dark Mode） -->
-  <img src="https://api.sourcerer.io/widgets/profile/3d?username=crashbussy&theme=dark" alt="3D Contribution Graph" />
+  <source media="(prefers-color-scheme: dark)" srcset="/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="/profile-3d-contrib/profile-gitblock.svg" />
+  <img src="/profile-night-rainbow.svg" />
 </picture>
 
 ---
