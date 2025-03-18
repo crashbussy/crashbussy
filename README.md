@@ -44,27 +44,30 @@ Here’s a fun 3D interactive globe to showcase my global reach and contribution
 
 ---
 
-## 🏷️ Welcome Module
+## 🐶 Why I Love **Bluey** (And You Should Too!)
 
-```html
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=crashbussy&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
-  <br />
-  <h3>Welcome to my GitHub Profile!</h3>
-  <p>I'm thrilled to have you here. Feel free to explore my repositories and projects. If you have any questions or want to collaborate, don't hesitate to reach out!</p>
-</div>
-```
+### 1. **出色的教育方式**
+Bluey is an animated series that benefits both parents and children alike. Through the everyday life of the Bluey family, it demonstrates how to educate children through play and interaction.
+Bluey's parents (Bandit and Chilli) always treat their children as equals, respecting their ideas and encouraging them to try new things. Whether through role-playing games or small challenges in daily life, they show how to nurture creativity, responsibility, and empathy in a relaxed and enjoyable atmosphere. This is something truly worth learning from in modern family education!
+In the process of raising their children, the parents are also growing themselves. 
+
+> **推荐观看**: **"Bluey S03E13 - Housework**。
+
+
+### 2. **如何活在当下：应对生活压力**
+
+Bandit is a character that we commonly see having fun being carefree and being constantly attentive to his children however in one of the newerepisodes of Bluey stick bird, we only see the opposite.
+
+> **推荐观看**: **Bluey S03E41 - Stickbird**
 
 ---
 
-## 📜 Recent Projects
+## 🌟 My Favorite Moment from Bluey
+![布鲁伊](2.png)
 
-### 1. **Project Name**
-- **Description**: Brief description of the project.
-- **Tech Stack**: Python, TensorFlow, etc.
-- **Link**: [GitHub Repository](https://github.com/crashbussy/Clustering-Algorithm-and-Application-Based-on-Quantum-Machine-Learning)
+最感人瞬间 ❤️
 
-
+---
 
 ## ⭐ Support
 
