@@ -4,7 +4,7 @@
 </div>
 <!-- profile logo 个人资料徽标 -->
   <div>
-    <a href="https://mp.weixin.qq.com/s/_dIPYz4jh5mSzV-q55fn7g"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
+    <a href="https://mp.weixin.qq.com/s/_dIPYz4jh5mSzV-q55fn7g"><img src="https://img.shields.io/badge/Website-公众号-8c36db" /></a>&emsp;
     <img src="https://komarev.com/ghpvc/?username=crashbussy&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
   </div>
   
@@ -24,7 +24,7 @@
 
 ### Programming Languages & Tools
 ```bash
-Python  |  JavaScript  |  HTML/CSS  |  React  |  TensorFlow  |  Docker
+Python  |  JavaScript  |  HTML/CSS  |  React  |  TensorFlow  |  Pytorch  |  MySQL
 ```
 
 ### Research Areas
