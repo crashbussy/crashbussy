@@ -1,6 +1,6 @@
 <!-- 第一幅图：布鲁伊 -->
 <div align="center">
-  <img src="1.png" alt="布鲁伊" width="300" />
+  <img src="1.png" alt="布鲁伊" width="600" />
 </div>
 <!-- profile logo 个人资料徽标 -->
   <div>
