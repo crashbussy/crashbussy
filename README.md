@@ -1,8 +1,8 @@
 ![布鲁伊](1.png)
 <!-- profile logo 个人资料徽标 -->
   <div>
-    <a href="[https://www.peterjxl.com/](https://mp.weixin.qq.com/s/_dIPYz4jh5mSzV-q55fn7g)"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
-    <img src="https://komarev.com/ghpvc/?username=Peter-JXL&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
+    <a href="https://mp.weixin.qq.com/s/_dIPYz4jh5mSzV-q55fn7g"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
+    <img src="https://komarev.com/ghpvc/?username=crashbussy=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
   </div>
   
 # 🌟 Hello！Cheeky dog ！~~ 👋
