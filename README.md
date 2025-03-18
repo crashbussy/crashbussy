@@ -61,6 +61,8 @@ Python  |  JavaScript  |  HTML/CSS  |  React  |  TensorFlow  |  Pytorch  |  MySQ
   </tr>
 </table>
 
+---
+
 <!-- Profile 3D Contribution Graph - 3D 贡献图 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/profile-3d-contrib/profile-night-rainbow.svg" />
