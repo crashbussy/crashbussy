@@ -82,7 +82,8 @@ Bandit is a character that we commonly see having fun being carefree and being c
 ---
 
 ## 🌟 My Favorite Moment from Bluey
-![布鲁伊](2.png)
+<!-- 使用 HTML 调整图片大小 -->
+<img src="2.png" alt="布鲁伊感人瞬间" width="300" />
 
 The most touching moment ❤️
 
