@@ -1,4 +1,7 @@
-![布鲁伊](1.png)
+<!-- 第一幅图：布鲁伊 -->
+<div align="center">
+  <img src="1.png" alt="布鲁伊" width="300" />
+</div>
 <!-- profile logo 个人资料徽标 -->
   <div>
     <a href="https://mp.weixin.qq.com/s/_dIPYz4jh5mSzV-q55fn7g"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
