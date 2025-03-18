@@ -38,6 +38,9 @@ Python  |  JavaScript  |  HTML/CSS  |  React  |  TensorFlow  |  Pytorch  |  MySQ
 
 <!-- metrics 基础资料 -->
 <img src="/github-metrics.svg" />
+
+<!-- GitHub 数据统计 -->
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=crashbussy&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=crashbussy&layout=compact&theme=radical)
 
