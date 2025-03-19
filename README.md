@@ -24,7 +24,7 @@
 
 ### Programming Languages & Tools
 ```bash
-Python  |  JavaScript  |  HTML/CSS  |  React  |  TensorFlow  |  Pytorch  |  MySQL
+Python  |  C++  |  JavaScript  |  HTML/CSS  |  TensorFlow  |  Pytorch  |  MySQL
 ```
 
 ### Research Areas
