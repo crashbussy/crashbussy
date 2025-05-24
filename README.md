@@ -36,7 +36,6 @@ Python  |  C++  |  JavaScript  |  HTML/CSS  |  TensorFlow  |  Pytorch  |  MySQL
 
 ## 📊 GitHub Stats
 
-![Metrics](/github-metrics.svg)
 
 <!-- GitHub 数据统计 -->
 
@@ -61,16 +60,6 @@ Python  |  C++  |  JavaScript  |  HTML/CSS  |  TensorFlow  |  Pytorch  |  MySQL
   </tr>
 </table>
 
----
-
-<!-- Profile 3D Contribution Graph - 3D 贡献图 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="/profile-3d-contrib/profile-gitblock.svg" />
-  <img src="/profile-night-rainbow.svg" />
-</picture>
-
----
 
 ## 🐶 Why I Love **Bluey** (And You Should Too!)
 
